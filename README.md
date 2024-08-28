@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-Software engineering applies structured practices to create reliable, scalable, and secure software, essential for innovation and efficiency in the technology industry.
+Software engineering is abranch of computer science that deal with desgn development, testing and maintenance of software applications. It helps to create reliable, scalable, and secure software, essential for innovation and efficiency in the technology industry.
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 Key milestones in software engineering include the introduction of structured programming in the 1960s, which improved code clarity and maintainability; the rise of object-oriented programming in the 1970s-1980s, promoting modularity and code reuse; and the emergence of Agile methodologies in the 2000s. This enables iterative, flexible, and customer-focused development.
